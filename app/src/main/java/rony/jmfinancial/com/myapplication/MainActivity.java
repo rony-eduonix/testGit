@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        Log.e("","testing tariti dgsdfsdf   ");
+        Log.e("","df   ");
     }
 }
